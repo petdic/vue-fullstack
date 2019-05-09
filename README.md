@@ -15,3 +15,7 @@ npm install express cors body-parser mongodb
 npm install -D nodemon
 ```
 
+## Create a cluster in could.mongodb.com for the database
+
+After creating a cluster you can then use the connection string in the routes/api files
+
